@@ -30,7 +30,7 @@ resource "newrelic_one_dashboard" "deploydashboard" {
       }
 
       # Must be another dashboard GUID
-      linked_entity_guids = ["NDQzODI2NXxWSVp8REFTSEJPQVJEfGRhOjU5NzkzNDQ"]
+      linked_entity_guids = ["NDQzOTk3MHxJTkZSQXxOQXwzODU5NzY2MTg1MjQ5MzU5MTM1"]
     }
 
     widget_bar {
